@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Total",
+    "content": "Approximately 10 minutes"
+  },
+  {
+    "id": 2,
+    "title": "Preparation",
+    "content": "5 minutes"
+  },
+  {
+    "id": 3,
+    "title": "Cooking",
+    "content": "5 minutes"
+  }
+]

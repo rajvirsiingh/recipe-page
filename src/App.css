@@ -1,0 +1,33 @@
+.container,
+.container img {
+  border-radius: 10px;
+}
+.container {
+  width: 30vw;
+  height: auto;
+  background-color: hsl(0, 0%, 100%);
+  padding: 30px;
+}
+.container img {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+@media only screen and (max-width: 600px) {
+  .container {
+    width: 100%;
+  }
+  .container,
+  .container img {
+    border-radius: 0;
+  }
+  body {
+    padding: 0;
+  }
+  .container {
+    padding: 0;
+  }
+  .mobile {
+    padding: 30px;
+  }
+}
